@@ -1,0 +1,27 @@
+{
+  "buildId": "20261018-paper-home-daily-life-v1",
+  "version": "V0.3.44",
+  "site": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261018-paper-home-daily-life-v1/",
+  "relativeSite": "paper-home-v3/20261018-paper-home-daily-life-v1/",
+  "importPath": "真王核心-纸剧场-V0.3.44-家园联网轻量版.json",
+  "loaderPath": "真王核心-纸剧场-V0.3.44-家园网络入口.json",
+  "scriptPath": "index.js",
+  "scriptBytes": 10380112,
+  "sourceScriptBytes": 5618696,
+  "totalImageCount": 606,
+  "networkImageCount": 600,
+  "embeddedImageCount": 6,
+  "assetBytes": 846578091,
+  "assetBaseUrl": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261018-paper-home-daily-life-v1/assets/",
+  "publishAssets": true,
+  "publishedImageCount": 294,
+  "sharedImageCount": 306,
+  "publishedAssetBytes": 540251586,
+  "sharedAssetBaseUrl": "https://kulsetiid.github.io/true-king-roster/paper-home-v3/20261011-paper-home-network-v1/assets/",
+  "source": "current-v3-source",
+  "networkPublished": false,
+  "standardParity": {
+    "moduleCount": 43,
+    "dataFieldCount": 8
+  }
+}
