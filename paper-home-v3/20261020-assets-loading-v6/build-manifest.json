@@ -1,0 +1,37 @@
+{
+  "buildId": "20261020-assets-loading-v6",
+  "version": "V0.3.44",
+  "site": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261020-assets-loading-v6/",
+  "relativeSite": "paper-home-v3/20261020-assets-loading-v6/",
+  "importPath": "真王核心-纸剧场-V0.3.44-家园联网轻量版.json",
+  "loaderPath": "真王核心-纸剧场-V0.3.44-家园网络入口.json",
+  "scriptPath": "index.js",
+  "scriptBytes": 10444267,
+  "sourceScriptBytes": 5664554,
+  "totalImageCount": 714,
+  "networkImageCount": 708,
+  "embeddedImageCount": 6,
+  "assetBytes": 580623444,
+  "assetBaseUrl": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261020-assets-loading-v6/assets/",
+  "publishAssets": true,
+  "publishedImageCount": 477,
+  "sharedImageCount": 231,
+  "publishedAssetBytes": 427257556,
+  "sharedAssetBaseUrl": "https://kulsetiid.github.io/true-king-roster/paper-home-v3/20261011-paper-home-network-v1/assets/",
+  "runtimeOptimization": {
+    "canonicalOriginalsPreserved": true,
+    "renderCount": 372,
+    "originalRenderBytes": 698374543,
+    "renderBytes": 448213328,
+    "thumbnailCount": 135,
+    "thumbnailBytes": 5595846,
+    "thumbnailMaxEdge": 256
+  },
+  "imageTransformation": "home-render:lossless-exact-rgba-original-dimensions; library:separate-256px-thumbnails; legacy:exact-original-bytes",
+  "source": "current-v3-source",
+  "networkPublished": false,
+  "standardParity": {
+    "moduleCount": 43,
+    "dataFieldCount": 8
+  }
+}
