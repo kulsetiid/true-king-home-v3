@@ -1,0 +1,24 @@
+{
+  "networkReleaseId": "20261027-multi-persona-test-v3-orphanage",
+  "sourceBuildId": "20261027-v0344-multi-persona-v3-orphanage",
+  "version": "V0.3.44-多人人设测试3",
+  "site": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261027-multi-persona-test-v3-orphanage/",
+  "script": {
+    "path": "index.js",
+    "bytes": 10462642,
+    "sha256": "cb830602b8e5fac8b9c9d756f3700680b987c5d155a6b694168fd76ff4a9336d"
+  },
+  "loader": {
+    "path": "真王核心-多人整合人设试作版-V0.3.44-网络入口.json",
+    "bytes": 1589,
+    "scriptId": "22bb5d76-5fc8-4ad9-bb52-ed42da360eb1",
+    "enabledByDefault": false
+  },
+  "sceneDescriptionUpdated": true,
+  "samePersonasAsV2": true,
+  "sameTestState": true,
+  "twoPowerSlots": true,
+  "existingAssetsReused": true,
+  "officialReleaseReplaced": false,
+  "previousNetworkReleaseReplaced": false
+}
