@@ -1,0 +1,29 @@
+{
+  "type": "script",
+  "enabled": false,
+  "name": "真王核心-多人整合人设试作版-网络加载",
+  "id": "22bb5d76-5fc8-4ad9-bb52-ed42da360eb1",
+  "content": "import 'https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261027-multi-persona-test-v2/index.js';",
+  "info": "多人整合人设试作版的网络入口，与2026-10-26整合稿使用完全相同的脚本、人设和独立测试存档。简化人设、十组互动、小帮手常驻；Alpha／Omega仍为两人权柄编制。首次启动需联网，图片沿用原资源。先停用其他真王核心整包并刷新，再启用本入口。与同版内嵌包使用相同脚本标识，用于替换；不要重复同时运行。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.44-多人人设测试2",
+    "buildId": "20261026-v0344-multi-persona-v2",
+    "catalogVersion": "sha256-03da77d08f29fc996bddd02e",
+    "architecture": "package-composition-v1",
+    "baseVersion": "V0.3.44",
+    "baseBuildId": "20261020-assets-loading-v6",
+    "testOnly": true,
+    "distribution": "network-entry",
+    "networkReleaseId": "20261027-multi-persona-test-v2",
+    "scriptUrl": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261027-multi-persona-test-v2/index.js",
+    "scriptSha256": "4a77b4d2bfa35e4d10ec57b6068918448d58067cd677b45d90176ea64216cd9a"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}

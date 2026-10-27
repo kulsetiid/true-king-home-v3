@@ -1,0 +1,22 @@
+{
+  "networkReleaseId": "20261027-multi-persona-test-v2",
+  "sourceBuildId": "20261026-v0344-multi-persona-v2",
+  "version": "V0.3.44-多人人设测试2",
+  "site": "https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261027-multi-persona-test-v2/",
+  "script": {
+    "path": "index.js",
+    "bytes": 10460262,
+    "sha256": "4a77b4d2bfa35e4d10ec57b6068918448d58067cd677b45d90176ea64216cd9a"
+  },
+  "loader": {
+    "path": "真王核心-多人整合人设试作版-V0.3.44-网络入口.json",
+    "bytes": 1452,
+    "scriptId": "22bb5d76-5fc8-4ad9-bb52-ed42da360eb1",
+    "enabledByDefault": false
+  },
+  "sameRuntimeAndPersonas": true,
+  "sameTestState": true,
+  "twoPowerSlots": true,
+  "existingAssetsReused": true,
+  "officialReleaseReplaced": false
+}
