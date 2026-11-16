@@ -1,7 +1,9 @@
-# 真王核心 V0.3.44 · 孤儿院日常
+# 真王核心 V3 · 纸剧场素材
 
-本仓库发布孤儿院纸剧场酒馆测试脚本和网页素材。
+当前正式版为 **V0.3.44 · RC13（2026-11-16）**。
 
-[下载测试脚本](https://kulsetiid.github.io/true-king-home-v3/paper-home-v3/20261020-assets-loading-v6/)
+[网络版、本地一键包与安装说明](https://kulsetiid.github.io/true-king-roster/) · [正式发布仓库](https://github.com/kulsetiid/true-king-roster) · [本地包 Release](https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-20261116)
 
-本次新增无损 WebP 展示副本与独立家具缩略图；原始美术和旧业务素材继续保留。加载中可以取消返回聊天，闲置图片缓存按预算回收。
+本仓库继续保存纸剧场历代网页与原图素材。当前素材沿用 `network-media` 分支的固定提交地址、内容哈希文件名，保留尺寸与透明通道；浏览器按需加载及缓存。手机使用网络版并横屏。
+
+旧的版本目录继续保留，避免历史脚本的纸卡地址失效。
